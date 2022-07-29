@@ -1,12 +1,9 @@
-import 'package:app_flowy/startup/tasks/app_widget.dart';
 import 'package:app_flowy/workspace/application/appearance.dart';
 import 'package:dartz/dartz.dart' as dartz;
 import 'package:app_flowy/workspace/presentation/widgets/pop_up_action.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flowy_infra/language.dart';
-import 'package:flowy_infra/theme.dart';
 import 'package:flowy_infra_ui/flowy_infra_ui_web.dart';
-import 'package:flowy_infra_ui/style_widget/button.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
